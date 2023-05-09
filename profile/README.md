@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Welcome to the Mullins Lab github! 
+- Welcome to the Mullins Lab github! 🧬🪩
 - Check out our website to learn more about our research: [🖥️](https://labs.icahn.mssm.edu/mullinslab/)
 
 <!--
