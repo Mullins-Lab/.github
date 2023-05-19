@@ -2,7 +2,7 @@
 
 🙋‍♀️ Welcome to the Mullins Lab Github Page! 🧬🪩
 
-The Mullins Lab is part of the Department of Psychiatry, Department of Genetics and Genomic Sciences, and the Charles Bronfman Institute for Personalized Medicine. 
+The Mullins Lab is part of the Department of Psychiatry, Department of Genetics and Genomic Sciences, and the Charles Bronfman Institute for Personalized Medicine at Mount Sinai.
 
 Our research involves large-scale genomic studies of psychiatric disorders. We use statistical and bioinformatics approaches to identify risk loci, determine relevant tissues, cell-types and pathways, prioritize causal genes and potential therapeutic targets, and develop genetic risk predictors. 
 
