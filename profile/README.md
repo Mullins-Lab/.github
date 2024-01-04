@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🙋‍♀️ Welcome to the Mullins Lab Github Page! 🧬🪩
+## 🙋‍♀️ Welcome to the Mullins Lab Github Page! 🧬🪩
 
 The Mullins Lab is part of the Department of Psychiatry, Department of Genetics and Genomic Sciences, and the Charles Bronfman Institute for Personalized Medicine at Mount Sinai.
 
